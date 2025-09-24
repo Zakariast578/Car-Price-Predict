@@ -191,16 +191,16 @@ _Place your UI screenshots in a `screenshots/` folder at repository root or `/Fr
 Example (replace when images available):
 
 ```md
-![Home Prediction Form](
-    <p align="center">
+![Home Prediction Form]
+<p align="center">
   <img src="./screenshots/home.png" alt="Home" width="700" />
 </p>
-)
-![Sanity Check ](
-    <p align="center">
+
+![Sanity Check ]
+<p align="center">
   <img src="./screenshots/sanity-check.png" alt="sanity" width="700" />
 </p>
-)
+
 ```
 
 ---
