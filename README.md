@@ -8,7 +8,7 @@ CarPricePro is a full‑stack car price prediction platform combining a FastAPI 
 Here's a sneak peek of the CarPricePro interface.
 
 <p align="center">
-  <img src="./Screenshots/with-premium.png" alt="with pro" width="700" />
+  <img src="./screenshots/with-premium.png" alt="with pro" width="700" />
 </p>
 ## 🚀 Features
 
