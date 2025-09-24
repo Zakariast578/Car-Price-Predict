@@ -188,22 +188,17 @@ Ensure backend is running before submitting a prediction.
 
 _Place your UI screenshots in a `screenshots/` folder at repository root or `/Frontend/public/` then reference them here._
 
-Example (replace when images available):
 
-```md
-![Home Prediction Form]
+
 <p align="center">
-  <img src="./screenshots/home.png" alt="Home" width="700" />
+    <img src="./screenshots/home.png" alt="Home" width="700" />
 </p>
 
-![Sanity Check ]
+----
 <p align="center">
-  <img src="./screenshots/sanity-check.png" alt="sanity" width="700" />
+    <img src="./screenshots/sanity-check.png" alt="Sanity Check" width="700" />
 </p>
-
 ```
-
----
 
 ## ❓ Troubleshooting
 
